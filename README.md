@@ -50,9 +50,9 @@ I'm passionate about **optimizing workflows**, delivering scalable solutions, an
 
 ## 🌟 Current Focus
 
-- 🌾 Building agri-tech solutions to enhance food productivity and reduce waste.
+- 🌾 Building tech solutions.
 - 🤖 Exploring AI tools to boost SDLC productivity.
-- 🔧 Developing procurement solutions with **Purchase Panda**.
+- 🔧 Developing custom made solutions with care.
 
 ---
 
